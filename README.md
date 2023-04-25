@@ -3,7 +3,6 @@ My KP3S printer config files.
 
 *Uses configs and instructions from:
 
-- https://github.com/kageurufu/preprocess_cancellation For object cancellation without stopping all the print
 - https://github.com/digitalninja-ro/klipper-neopixel Neopixel led scripts (cleaner than mine)
 - https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging Adaptive Mesh creation and line purgue for each print
 - https://github.com/mainsail-crew/moonraker-timelapse Moonraker integrated timelapse
