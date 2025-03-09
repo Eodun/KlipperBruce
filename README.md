@@ -15,7 +15,7 @@ My KP3s printer config files.
 - External access via WireGuard VPN HomeAssistant Addon
 - TMC2209 in UART mode
 - BlTouch clone (3DTouch)
-- Titan Aero Extruder (direct drive)
+- Titan Aero Extruder (direct drive), 0.2 nozzle right now, using also high flow 0.4
 - USB camera (laptop webcam)
 - Endoscopic camera
 - Filament detector
