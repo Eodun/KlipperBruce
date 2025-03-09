@@ -14,8 +14,10 @@ My KP3s printer config files.
 - BlTouch clone (3DTouch)
 - Titan Aero Extruder (direct drive)
 - USB camera (laptop webcam)
+- Endoscopic camera
 - Filament detector
 - Neopixel 10-led stripe connected to the printer MCU
-- Arduino: I use an Arduino UNO to connect an ADXL when needed for input shaper
+- Arduino: I use an Arduino UNO to connect an ADXL when needed for input shaper (soon: USB ADXL)
 - IKEA RGB lamp connected through HomeAssistant
 - MobileRaker Android app
+- Trying to configure Shaketune but got weird errors, any help? :D
