@@ -7,9 +7,12 @@ My KP3s printer config files.
 - https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging Adaptive Mesh creation and line purge for each print
 - https://github.com/mainsail-crew/moonraker-timelapse Moonraker integrated timelapse
 - https://github.com/mainsail-crew/crowsnest For webcam control
+- https://github.com/Frix-x/klippain-shaketune For easier inputshaper (in progress)
+- https://github.com/Clon1998/mobileraker Android control app
 
 *Upgrades to my printer relevant to the config:
 
+- External access via WireGuard VPN HomeAssistant Addon
 - TMC2209 in UART mode
 - BlTouch clone (3DTouch)
 - Titan Aero Extruder (direct drive)
